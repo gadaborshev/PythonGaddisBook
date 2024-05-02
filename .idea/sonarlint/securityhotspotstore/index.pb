@@ -19,3 +19,7 @@ Y
 )Chapter_02/2.20_f_string_no_formatting.py,7/1/712b4d3b000eac98accf0925a6bf6d6e6eba7ccd
 T
 $Chapter_02/2.21_f_string_rounding.py,7/5/757b94f732e0a652aa4cd8ad51981feb8e82b1d5
+Q
+!Chapter_02/2.22_dollar_display.py,e/7/e7ce025c040996a4a6326828bb84d7303327e1e9
+J
+Chapter_02/2.23_columns.py,8/e/8e2d37722148fe510aefc0b76fdfe4fedba84998
